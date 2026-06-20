@@ -11,7 +11,7 @@
 #include "egpio.h"
 #include "gbx.h"
 
-#define SPI_CLK_SPEED 10000000
+#define SPI_CLK_SPEED 1000000
 
 //defaults
 static const char* defaultFunc = "none";
